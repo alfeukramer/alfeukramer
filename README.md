@@ -1,7 +1,7 @@
 <p>Olá, me chamo <strong>Alfeu Kramer</strong>, atualmente sou desenvolvedor <strong>front-end</strong>, estudando na Trybe para se tornar <strong>Full Stack</strong>.<p />
 
 <br />
-<div align="center">
+<div align="justify">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfeukramer&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfeukramer&layout=compact)](https://github.com/alfeukramer/github-readme-stats)

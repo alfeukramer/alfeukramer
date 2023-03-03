@@ -1,4 +1,4 @@
-<p>Olá, me chamo <strong>Alfeu Kramer</strong>, atualmente sou desenvolvedor <strong>Front-End Jr.</strong>, estudando na Trybe para se tornar <strong>Full Stack.</strong> Natural de Guarapuava/PR, além da área de desenvolvimento, tenho experiência de 2 anos trabalhando como suporte técnico em uma empresa de desenvolvimento.<p />
+<p>Olá, me chamo <strong>Alfeu Kramer</strong>, sou desenvolvedor <strong>Full Stack Jr.</strong>. Natural de Guarapuava/PR, além da área de desenvolvimento, tenho experiência de 2 anos trabalhando como suporte técnico em uma empresa de desenvolvimento.<p />
 
 <br />
 <div align="justify">

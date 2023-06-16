@@ -1,4 +1,4 @@
-<p>Olá, me chamo <strong>Alfeu Kramer</strong>, desenvolvedor <strong>Full Stack</strong>, formado pela Trybe e atualmente cursando Análise e Desenvolvimento de Sistemas. Natural de Guarapuava/PR, além da área de desenvolvimento, tenho experiência de 2 anos trabalhando como suporte técnico numa software house e 3 anos como designer gráfico.<p />
+<p>Olá, me chamo <strong>Alfeu Kramer</strong>, desenvolvedor <strong>Full Stack</strong>, formado pela Trybe e atualmente cursando Análise e Desenvolvimento de Sistemas. Natural de Guarapuava/PR, além da área de desenvolvimento, tenho experiência de 2 anos trabalhando como suporte técnico em uma software house e 3 anos como designer gráfico.<p />
 
 <br />
 <div align="justify">

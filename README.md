@@ -1,4 +1,4 @@
-<p>Olá, me chamo <strong>Alfeu Kramer</strong>, graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>, possuo curso de <strong>desenvolvedor Web Full Stack</strong> pela Trybe também. <br>Localizado atualmente 
+<p>Olá, me chamo <strong>Alfeu Kramer</strong>, possuo graduação em <strong>Análise e Desenvolvimento de Sistemas</strong> e <strong>Desenvolvedor Web Full Stack</strong> formado pela Trybe. <br>Localizado atualmente 
  em Guaratuba/PR, atualmente atuo como Suporte Técnico numa ISP e também já atuei 02 anos como Suporte Técnico numa software house..<p />
 
 <br />
